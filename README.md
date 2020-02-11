@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors Starter App (Python)
 
+
 An introductory Python application (a starter game of rock-paper-scissors), for instructional purposes.
 
 ## Prerequisites
